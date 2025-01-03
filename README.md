@@ -5,7 +5,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 
 | Name  | Github handle | Repo link |
 |------|---------------|--------------|
-| Prof L. Corrales | -- | -- |
+| Prof L. Corrales | [eblur](https://github.com/eblur) | [github.com/eblur/W25-roll-call](https://github.com/eblur/W25-roll-call) |
 | John B. | -- | -- |
 | Caden B. | -- | -- |
 | Claire C. | -- | -- |
