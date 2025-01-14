@@ -27,7 +27,7 @@ Winter 2025 semester student roll call activity designed to practice open source
 | Benjamin R. | -- | -- |
 | Evan R. | -- | -- |
 | Saima S. | -- | -- |
-| Michael S. | -- | -- |
+| Michael S. | [mstruk12](https://github.com/mstruk) | [github.com/mstruk12/W25-roll-call](https://github.com/mstruk12/W25-roll-call) |
 | Brigette V. S. | -- | -- |
 | Qianran X. | -- | -- |
 
